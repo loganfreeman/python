@@ -1,0 +1,1 @@
+- [USING PYENV WITH VIRTUALENV AND PIP CHEAT SHEET](https://fijiaaron.wordpress.com/2015/06/18/using-pyenv-with-virtualenv-and-pip-cheat-sheet/)
